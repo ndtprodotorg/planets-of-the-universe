@@ -3,18 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{site.baseurl}}/css/common.css">
     <title>Planets of  the Universe</title>
 </head>
 <body>
 <header>
     <h1>Planets of the Universe</h1>
-    <nav>
-        <ul>
-            <li><a href="{{site.baseurl}}/index.html">HOME</a></li>
-            <li><a href="{{site.baseurl}}/news.html">NEWS</a></li>
-        </ul>
-    </nav>
+    {% include nav.html navclass='nav-top' %}
 </header>
 {{content}}
 </body>
+<footer>
+    {% include nav.html navclass='nav-bottom' %}
+    <p>&copy;2020 Planets of the Universe</p>
+</footer>
 </html>
