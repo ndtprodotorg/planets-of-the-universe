@@ -3,7 +3,7 @@ layout: default
 title: Cloud computing is the most important thing in China
 meta: GitHub is home to over 40 million
 source: http://www.github.io
-category: post
+category: news
 ---
 
 GitHub is home to over 40 million developers working together to host and review code, manage projects, and build software together.

@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<h1>News in Nestedlayout</h1>
+
+<nav>
+    <ul class="nav-top">
+        <li class="{% if page.url == '/news.html'%}current{% endif %}"><a href="{{site.baseurl}}/news.html">Planet News</a></li>
+        <li class="{% if page.url == '/recently-discovered.html' %}current{% endif %}"><a href="{{site.baseurl}}/recently-discovered.html">Recently Discovered News</a></li>
+    </ul>
+</nav>
+{{content}}
