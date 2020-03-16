@@ -14,10 +14,10 @@ nav > ul > li {
     text-transform: uppercase;
 }
 
-.nav-top .current {
+.current {
     background-color: #333;
 }
-.nav-top .current > a{
+.current > a{
     color:#fff;
 }
 .nav-bottom > ul > li {
@@ -27,7 +27,7 @@ nav > ul > li {
     color:#fff;
 }
 footer {
-    position: absolute;
+    position: relative;
     align-items: center;
     bottom: 0px;
 }

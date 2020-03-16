@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: news-article
 title: Cloud computing is the most important thing in China
 meta: GitHub is home to over 40 million
 source: http://www.github.io

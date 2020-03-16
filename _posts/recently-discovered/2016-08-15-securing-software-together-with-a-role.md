@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: news-article
 title: Securing software, together
 meta: We all play a role in securing the world’s code—developers
 source: https://github.com/features

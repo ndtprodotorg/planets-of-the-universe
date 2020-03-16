@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: news-article
 title: Packages at home with their code
 meta: Actions is unlimited for everyone.
 source: https://github.com/features

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: news-article
 title: Build, test, deploy, and run CI/CD the way you want
 meta: Trigger Actions from any GitHub event to any available API. Build your own Actions in the language
 source: https://github.com/features
